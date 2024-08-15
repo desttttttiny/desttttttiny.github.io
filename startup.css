@@ -1,0 +1,54 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: "Gupter",sans-serif ;
+	background: url(sasa.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+
+}
+.btn-xl{
+	padding: 1rem 2rem;
+
+} 
+h1{
+    text-transform: uppercase;
+	color: #FFFAFA;
+	
+	
+
+}
+.btn-success{
+	background-color: #00cc00;
+	border-color: #00cc00;
+
+}
+.btn-success:hover{
+	background-color:#004d00 ;
+	border-color: #004d00;
+	border-width: 5px;
+
+}	
+hr{
+	border-color:#00cc00;
+    border-width:3px;
+	margin: 0 auto;
+	max-width: 65px;
+	height: 15px;
+	
+}
+
+.container{
+	justify-content: center;
+}
+.buffer{
+	height: 5rem;
+}
